@@ -1,1 +1,1 @@
-## Library for Compuational Finance
+## Library for Quantitative Compuational Finance (Q-CF) 
